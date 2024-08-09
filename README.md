@@ -1,4 +1,10 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+1. Simple, cute landing page.
+For selling various mobile devices
+
+2. Created using BEM methodology and mobile first design
+
+3. Here are the links you need:
+
+    - [MOCKUP LINK](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&t=ZIYXcctDssUavDgB-0)
+
+    - [DEMO LINK](https://ogerenko.github.io/Kickstarter-landing/)
