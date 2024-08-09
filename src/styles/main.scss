@@ -1,3 +1,42 @@
-body {
-  margin: 0;
+@import './utils/variables';
+@import './utils/mixins';
+@import './utils/fonts';
+@import './blocks/about-us';
+@import './blocks/advantage';
+@import './blocks/burger-menu';
+@import './blocks/button-buy';
+@import './blocks/button';
+@import './blocks/header';
+@import './blocks/language';
+@import './blocks/main-content';
+@import './blocks/menu';
+@import './blocks/nav';
+@import './blocks/page';
+@import './blocks/presentation';
+@import './blocks/technology';
+@import './blocks/testimonilas';
+@import './blocks/text-header';
+@import './blocks/theme';
+@import './blocks/top-bar';
+@import './blocks/features';
+@import './blocks/questions';
+@import './blocks/form';
+@import './blocks/footer';
+@import './blocks/social-media';
+
+
+iframe {
+  display: none;
 }
+
+.no-borders {
+  margin-inline: -30px;
+  width: 100vw;
+
+  @include on-tablet {
+    margin-inline: 0;
+    width: 100%;
+  }
+}
+
+
