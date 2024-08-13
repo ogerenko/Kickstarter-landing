@@ -1,10 +1,43 @@
-1. Simple, cute landing page.
-For selling various mobile devices
+# Nothing landing
 
-2. Created using BEM methodology and mobile first design
+Landing page responsive store for selling gadgets. Created in accordance with the design.
 
-3. Here are the links you need:
+  - [DEMO LINK](https://ogerenko.github.io/Kickstarter-landing/)
 
-    - [MOCKUP LINK](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&t=ZIYXcctDssUavDgB-0)
+  - [MOCKUP LINK](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&t=ZIYXcctDssUavDgB-0)
 
-    - [DEMO LINK](https://ogerenko.github.io/Kickstarter-landing/)
+
+## Features
+  + Adaptive design for different types of devices (phone, tablet, desktop)
+  + Slide-out navigation menu
+  + Anchor navigation for convenience
+
+## Technologies
+  + HTML
+  + SCSS
+
+## Requirements
+
+To run this project locally, you will need:
+  + Node.js v14 or higher
+  + npm or yarn
+
+## Installation
+
+  1. Clone the repository:
+    #### `git clone https://github.com/ogerenko/Kickstarter-landing.git`
+
+  2. Navigate to the project directory:
+    #### `cd Kickstarter-landing`
+
+  3. Install the dependencies:
+    #### `npm install`
+
+  4. Start the development server:
+    #### `npm start`
+
+## Author
+
+  Developed by Ruslan Oherenko. You can reach me via:
+  [Linkedin](www.linkedin.com/in/ruslan-oherenko-3295b7303)
+  Email: ruslanoherenko.job@gmail.com

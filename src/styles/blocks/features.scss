@@ -21,6 +21,7 @@
 
       @include on-tablet {
         grid-column: 2 / 5;
+        margin: 0;
       }
 
       @include on-desktop {
@@ -63,7 +64,7 @@
   &__subtitle {
     padding-top: 30px;
     color: $dark-turquoise-color;
-    
+
     @include font-style(mobile, h3);
 
     @include on-desktop {
