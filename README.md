@@ -1,8 +1,9 @@
-# Nothing landing
+# Krazy Baby landing
 
-Landing page responsive store for selling gadgets. Created in accordance with the design.
 
-  - [DEMO LINK](https://ogerenko.github.io/Kickstarter-landing/)
+Landing page responsive store for presentation of new gadget product. Created in accordance with the design.
+
+  - [DEMO LINK](https://ogerenko.github.io/Krazy-baby-landing/)
 
   - [MOCKUP LINK](https://www.figma.com/design/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655-32&t=ZIYXcctDssUavDgB-0)
 
@@ -25,10 +26,10 @@ To run this project locally, you will need:
 ## Installation
 
   1. Clone the repository:
-  #### `git clone https://github.com/ogerenko/Kickstarter-landing.git`
+  #### `git clone https://github.com/ogerenko/Krazy-baby-landing.git`
 
   2. Navigate to the project directory:
-  #### `cd Kickstarter-landing`
+  #### `cd Krazy-baby-landing`
 
   3. Install the dependencies:
   #### `npm install`
